@@ -1,16 +1,51 @@
-# shop_app_bloc
+# Shopping App - Flutter Using Bloc 
 
-A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#
+#
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+| on boarding 1   | on boarding 2     | on boarding 3 |
+| -------------- | -------------- | -------------- |
+| <p align="center"> <img src="screenshots/onBoarding1.jpeg" width="85%"> </p> | <p align="center"> <img src="screenshots/onBoarding1.jpeg" width="85%"> </p> |<p align="center"> <img src="screenshots/onBoarding1.jpeg" width="85%"> </p> |
+
+
+
+#
+#
+
+
+
+
+| sign in     | Register |
+| -------------- | -------------- |
+| <p align="center"> <img src="screenshots/login.jpeg" width="60%"> </p> | <p align="center"> <img src="screenshots/Register.jpeg" width="60%"> </p> |
+
+
+
+#
+#
+
+
+
+
+
+| Home screen   | Profile     | Udpate informations |
+| -------------- | -------------- | -------------- |
+| <p align="center"> <img src="screenshots/home2.jpeg" width="85%"> </p> | <p align="center"> <img src="screenshots/profile.jpeg" width="85%"> </p> |<p align="center"> <img src="screenshots/update_information.jpeg" width="85%"> </p> |
+
+
+
+#
+#
+
+
+
+
+
+| Search screen   | Details     | favorites |
+| -------------- | -------------- | -------------- |
+| <p align="center"> <img src="screenshots/search.jpeg" width="85%"> </p> | <p align="center"> <img src="screenshots/detail.jpeg" width="85%"> </p> |<p align="center"> <img src="screenshots/fav.jpeg" width="85%"> </p> |
