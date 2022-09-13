@@ -10,7 +10,7 @@
 
 | on boarding 1   | on boarding 2     | on boarding 3 |
 | -------------- | -------------- | -------------- |
-| <p align="center"> <img src="screenshots/onBoarding1.jpeg" width="85%"> </p> | <p align="center"> <img src="screenshots/onBoarding1.jpeg" width="85%"> </p> |<p align="center"> <img src="screenshots/onBoarding1.jpeg" width="85%"> </p> |
+| <p align="center"> <img src="screenshots/onBoarding1.jpeg" width="85%"> </p> | <p align="center"> <img src="screenshots/onBoarding2.jpeg" width="85%"> </p> |<p align="center"> <img src="screenshots/onBoarding3.jpeg" width="85%"> </p> |
 
 
 
